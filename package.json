@@ -1,0 +1,22 @@
+{
+  "name": "cslmis-landing",
+  "version": "1.0.0",
+  "description": "My stunning Nuxt.js project",
+  "author": "Nobleson",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "cross-env": "^5.2.0",
+    "mdbvue": "git+https://oauth2:uJvydDaiDSzR_w_Js_m4@git.mdbootstrap.com/mdb/vue/vu-pro.git",
+    "nuxt": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
